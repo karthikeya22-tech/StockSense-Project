@@ -103,9 +103,9 @@ Everything works together behind the scenes without needing manual effort.
 ---
 
 # Methodology
-<img width="983" height="755" alt="image" src="https://github.com/user-attachments/assets/1a36488f-6d9e-4710-be5e-d836820e0e26" />
+<img width="906" height="598" alt="image" src="https://github.com/user-attachments/assets/d656d42b-34eb-4937-8dff-3486d27a0a8c" />
 
-
+---
 
 ## 🛠️ Technologies Used
 
