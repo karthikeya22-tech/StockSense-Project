@@ -141,6 +141,13 @@ There’s a lot of scope to take this further:
 * Smart shelf integration using IoT
 
 ---
+# Project Screenshots
+<img width="1909" height="890" alt="Screenshot 2026-03-31 230438" src="https://github.com/user-attachments/assets/8c5e84ce-e55d-4b7b-a75c-52c93a21bc0c" />
+<img width="1910" height="893" alt="Screenshot 2026-03-31 230507" src="https://github.com/user-attachments/assets/8350c7b8-7ce7-46b5-abea-b7ced5186300" />
+<img width="1902" height="872" alt="Screenshot 2026-03-23 220053" src="https://github.com/user-attachments/assets/d2aed625-592f-4c5a-acef-6b7ff2a64a68" />
+<img width="1893" height="878" alt="Screenshot 2026-03-23 215012" src="https://github.com/user-attachments/assets/a606394d-054e-47aa-b039-9c22af7fa22d" />
+
+
 
 ## 🌟 Final Note
 
